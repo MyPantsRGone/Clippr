@@ -1,0 +1,2 @@
+# Clippr
+A Clipping software
