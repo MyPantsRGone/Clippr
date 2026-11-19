@@ -33,9 +33,11 @@ Windows 10 / 11 · free · everything stays on your PC
 
 ## 🎥 The clip editor
 
-Watch, trim and file your clips. Kills and action moments are marked on the filmstrip. **Hold right-click on the video to draw** (the line fades after a few seconds), and use the arrows at the sides of the window, or **Shift + ← / →**, to go to the previous or next clip.
+Watch, trim and file your clips. Kills and action moments are marked on the filmstrip, and the arrows at the sides of the window (or **Shift + ← / →**) take you to the previous or next clip.
 
-![The clip editor, with a drawing on the video](docs/player.png)
+**Hold right-click on the video to draw**, for example to circle the enemy. The line fades away on its own after a few seconds.
+
+![Drawing on a clip: circling the enemy with right-click](docs/drawing.gif)
 
 ## 🕹 Game versions, together
 
