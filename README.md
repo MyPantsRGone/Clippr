@@ -24,6 +24,7 @@ Windows 10 / 11 · free · everything stays on your PC
 | 🗂 **Sorted automatically** | Every clip lands under the game you were playing, with the game's cover art. New clips wait in **New clips** until you've had a look. |
 | 🎯 **Kills on the timeline** | Counter-Strike 2, Dota 2 and League report your kills, headshots and deaths officially. In Deadlock and Valorant, Clippr reads them from the clip itself. Every clip shows its best **action moments**. |
 | ✂️ **Trim in a second** | Drag the handles and save — instantly and with no quality loss, or frame-exact. The old version goes to *Recently deleted*, so you can always get it back. |
+| 🫥 **Privacy blur** | Paint over names, chat or anything private, and choose how long the blur lasts. It's baked into anything you share. |
 | 💬 **Copy for Discord** | One click makes a copy that fits Discord's upload limit and puts it on your clipboard. Just press Ctrl+V in Discord. |
 | 🏘 **Clippr Town** | Your clips live in a little pixel-art town as villagers, and the town grows as your library does. |
 | 🎨 **Make it yours** | 16 themes, Liquid Glass, Frutiger Aero, animated backgrounds, or your own picture or video. |
@@ -39,15 +40,21 @@ Watch, trim and file your clips. Kills and action moments are marked on the film
 
 ![Drawing on a clip: circling the enemy with right-click](docs/drawing.gif)
 
+## 🫥 Blur names and chat
+
+Press **Blur** (or **B**) and paint over anything you don't want to share: your name in the kill feed, chat, a friend's gamertag. Scroll the mouse wheel to change the brush size. A grey bar under the timeline shows how long the blur lasts, so drag its ends to match. If the thing moves, end the bar there and paint a new blur at the new spot. Blurs are baked into **Copy for Discord** and precise trims; your original clip stays untouched.
+
+![Blurring your own name in the kill feed](docs/blur.gif)
+
 ## 🕹 Game versions, together
 
 Versions of the same game share one entry, with tabs at the top: **CS2, CS:GO and Source** under Counter-Strike, **Vanilla and Modded** under Minecraft, every GTA game (plus FiveM) under Grand Theft Auto, and so on. Covers download automatically, even for games you've uninstalled. If no cover can be found, the game's own icon is used.
 
 ![Counter-Strike with tabs for CS2, CS:GO and Source](docs/families.png)
 
-## 📁 Folders inside folders
+## 📁 Folders, your way
 
-Drag a folder onto another folder and it becomes a tab there. That's handy for an *Old clips* folder holding *2024* and *2025*. Drag clips onto a tab to move them into it.
+Games and folders share one list in the sidebar, in whatever order you drag them. Drop a game or folder onto another folder and it becomes a tab there. You can keep it in the sidebar too, and your clips are never duplicated. A folder holding several games shows their icons, which spread out when you point at it. There's also a folder for every year, made automatically.
 
 ![A folder with folders inside it as tabs](docs/folders.png)
 
