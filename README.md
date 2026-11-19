@@ -38,13 +38,13 @@ Watch, trim and file your clips. Kills and action moments are marked on the film
 
 **Hold right-click on the video to draw**, for example to circle the enemy. The line fades away on its own after a few seconds.
 
-![Drawing on a clip: circling the enemy with right-click](docs/drawing.gif)
+![Drawing on a clip: circling the enemy with right-click](docs/drawing.webp)
 
 ## 🫥 Blur names and chat
 
 Press **Blur** (or **B**) and paint over anything you don't want to share: your name in the kill feed, chat, a friend's gamertag. Scroll the mouse wheel to change the brush size. A grey bar under the timeline shows how long the blur lasts, so drag its ends to match. If the thing moves, end the bar there and paint a new blur at the new spot. Blurs are baked into **Copy for Discord** and precise trims; your original clip stays untouched.
 
-![Blurring your own name in the kill feed](docs/blur.gif)
+![Blurring your own name in the kill feed](docs/blur.webp)
 
 ## 🕹 Game versions, together
 
